@@ -2,7 +2,7 @@
 Definição de quais botões acionam as ações do personagem:
    1. Walk é acionado por A , D ou as setas direcionais horizontais
    2. Run é acionado a partir de Walk + Tecla Shift
-   3. Jump é acionado por W ou Spacebar
+   3. Jump1 é acionado por W ou Spacebar
    4. Jump2 é acionado a partir da finalização da animação de Jump e se o personagem não estiver no chão
    5. Lay é acionado pela tecla L
    6. Dance é acionado pela tecla Q
