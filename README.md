@@ -1,4 +1,4 @@
-# Prova Inteligencia-Artificial-UNEB
+# Prova Inteligencia-Artificial-UNEB ❀
 Definição de quais botões acionam as ações do personagem:
    1. Walk é acionado por A , D ou as setas direcionais horizontais
    2. Run é acionado a partir de Walk + Tecla Shift
@@ -11,8 +11,8 @@ Definição de quais botões acionam as ações do personagem:
    9. ShootArrow é acionado pela tecla R
    10. Fireball é acionado por T
        
-# Diagrama da Máquina de Estados Finitos:
+# ‧₊˚Diagrama da Máquina de Estados Finitos:
 ![Diagrama da Máquina de Estados Finitos](https://github.com/user-attachments/assets/f23efe57-3f25-4871-acbd-b11aeb6edda2)
 
-# Link para vídeo da Gameplay:
+# ‧₊˚❀Link para vídeo da Gameplay:
 https://youtu.be/phqjl6wXZpI
