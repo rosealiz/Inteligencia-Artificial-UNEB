@@ -1,4 +1,4 @@
-# Prova Inteligencia-Artificial-UNEB ❀
+# ⋆˚Prova Inteligencia-Artificial-UNEB ❀
 Definição de quais botões acionam as ações do personagem:
    1. Walk é acionado por A , D ou as setas direcionais horizontais
    2. Run é acionado a partir de Walk + Tecla Shift
